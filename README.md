@@ -1,17 +1,24 @@
-Hi there 👋
----
+# Hi there 👋
 
-I'm KnightCat.
+I'm **KnightCat**, an AI undergraduate at Zhejiang University.
 
-AI Undergraduate @ Zhejiang University
+I enjoy exploring how software and hardware work together, from machine learning models to computer architecture.
 
-**Currently learning:**
+I'm currently learning, building, and sharing what I discover through GitHub.
 
-- Machine Learning
-- FPGA & RISC-V
+### 🌱 Learning
 
-**Projects**
-- SCPU
+* Artificial Intelligence
+* Computer Architecture
+* Linux & Git
 
-**Contact**
-Email:K1159417717@outlook.com
+### 🚀 Building
+
+* SCPU on FPGA
+* Personal learning notes
+* Small tools and experiments
+
+### 📫 Contact
+
+Email: [K1159417717@outlook.com](mailto:K1159417717@outlook.com)
+
